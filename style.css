@@ -117,6 +117,7 @@ button {
   height: 3rem;
   border-radius: 50%;
   transition: 0.2s;
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -140,6 +141,7 @@ button {
   border-radius: 30px;
   width: 100%;
   transition: 0.2s;
+  cursor: pointer;
 }
 
 .submit-button:hover,
